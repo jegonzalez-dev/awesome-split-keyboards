@@ -1,31 +1,29 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
-- [Awesome Split Keyboards <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-split-keyboards-)
   - [Ergodox](#ergodox)
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
   - [Ergodone](#ergodone)
+  - [Ergotravel](#ergotravel)
+  - [Fortitude60](#fortitude60)
+  - [For Science](#for-science)
+  - [Fourier 40](#fourier-40)
   - [Georgi](#georgi)
   - [Gergo](#gergo)
   - [Redox](#redox)
   - [Let's Split](#lets-split)
   - [Minidox](#minidox)
-  - [Ergotravel](#ergotravel)
   - [Helix](#helix)
-  - [HeliDox](#helidox)
+  - [Corne](#corne)
   - [Zen](#zen)
   - [Sol](#sol)
   - [Chimera Ergo](#chimera-ergo)
   - [Kyria](#kyria)
   - [Iris](#iris)
-  - [Fortitude60](#fortitude60)
   - [Levinson](#levinson)
   - [Viterbi](#viterbi)
-  - [Fourier 40](#fourier-40)
   - [Nyquist](#nyquist)
   - [BFO-9000](#bfo-9000)
-  - [For Science](#for-science)
   - [Mitosis](#mitosis)
   - [Dactyl](#dactyl)
   - [Dactyl-ManuForm](#dactyl-manuform)
@@ -33,8 +31,8 @@
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
   - [Pteron](#pteron)
-  - [CatBoard ][](#catboard-)
-  - [Gergo](#gergo-1)
+  - [CatBoard](#catboard-)
+  - [Arke](#arke)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
   - [Mistel Barocco](#mistel-barocco)
@@ -44,6 +42,7 @@
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
   - [Matias Ergo Pro](#matias-ergo-pro)
+  - [Goldtouch Go!2](#goldtouch-go2)
   - [Maltron](#maltron)
   - [Cherry ErgoPlus MX 5000 (G80-5000)](#cherry-ergoplus-mx-5000-g80-5000)
   - [Dygma Raise](#dygma-raise)
@@ -51,25 +50,34 @@
   - [Dumang DK6](#dumang-dk6)
   - [Lily58](#lily58)
   - [R-Go Split](#r-go-split)
-  - [DO IT YOURSELF](#do-it-yourself)
-    - [How to](#how-to)
+  - [Moonlander (Mark I)](#moonlander-mark-i)
+  - [Sofle](#sofle)
+  - [Pinky](#pinky)
+  - [Colosseum](#colosseum)
+  - [Ergoinu](#ergoinu)
+  - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
+    - [Plates & Cases](#plates--cases)
+      - [Laser Cutting](#laser-cutting)
+      - [3D Printing](#3d-printing)
+    - [Electronics](#electronics)
+      - [PCBs](#pcbs)
     - [Firmware](#firmware)
+  - [Keyboard Information](#keyboard-information)
     - [Keycaps](#keycaps)
     - [Switches](#switches)
-    - [Switches tester](#switches-tester)
+    - [Switch Testers](#switch-testers)
   - [Shopping](#shopping)
+    - [Keycaps](#keycaps-1)
+    - [Cables](#cables)
   - [Community](#community)
     - [Forums](#forums)
     - [Wiki](#wiki)
     - [Chat](#chat)
   - [Ergonomics](#ergonomics)
-  - [RSI](#rsi)
+    - [RSI](#rsi)
   - [More split keyboards](#more-split-keyboards)
-  - [About](#about)
     - [Contributing](#contributing)
     - [License](#license)
-    - [About this fork](#about-this-fork)
-
 
 ## Ergodox
 https://www.ergodox.io
@@ -92,25 +100,51 @@ https://ergodox-ez.com
 
 
 ## Ergodone
-https://kbdfans.cn/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping
-https://kbdfans.cn/products/ergodone-keyboard-pcb-1pcs-free-shipping
-https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-TOOLS-PCB-programmed-Ergonomic-Keyboard-Kit-similar-with-infinity-ergodox/3034003_32830050940.html
+[PCB (aliexpress)](https://s.click.aliexpress.com/e/_AKn6Y7) [Case (aliexpres)](https://s.click.aliexpress.com/e/_ADcipV)
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
+
+## Ergotravel
+https://github.com/jpconstantineau/ErgoTravel
+
+<img src="img/Ergotravel.jpg" width="400px"/>
+
+
+## Fortitude60
+
+https://github.com/Pekaso/fortitude60
+https://yushakobo.jp/shop/fortitude60
+
+<img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
+
+
+## For Science
+https://github.com/peej/for-science-keyboard
+
+<img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
+
+
+## Fourier 40
+https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard
+
+<img src="img/Fourier40.jpg" width="400px"/>
+
+
 ## Georgi
-https://www.gboards.ca/
+[gboards.ca](https://www.gboards.ca)  
 
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
 
 ## Gergo
-https://www.gboards.ca/
-
-https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo
+[gboards.ca](https://www.gboards.ca)  
+[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo)  
+[reddit](https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on)  
 
 <img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/>
+
 
 ## Redox
 https://github.com/mattdibi/redox-keyboard
@@ -136,11 +170,6 @@ https://github.com/dotdash32/cases/tree/master/Minidox
 <img src="img/MiniDox.jpg" width="400px"/>
 
 
-## Ergotravel
-https://github.com/jpconstantineau/ErgoTravel
-
-<img src="img/Ergotravel.jpg" width="400px"/>
-
 
 ## Helix
 https://github.com/MakotoKurauchi/helix
@@ -149,7 +178,7 @@ https://yushakobo.jp/shop/helix-keyboard-kit/
 <img src="img/Helix.jpg" width="400px"/>
 
 
-## HeliDox
+## Corne
 https://github.com/foostan/crkbd/
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
@@ -198,14 +227,6 @@ https://github.com/keebio/iris-case
 <img src="img/Iris.jpg" width="400px"/>
 
 
-## Fortitude60
-
-https://github.com/Pekaso/fortitude60
-https://yushakobo.jp/shop/fortitude60
-
-<img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
-
-
 ## Levinson
 
 https://keeb.io/products/levinson-lets-split-w-led-backlight
@@ -223,12 +244,6 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md
 <img src="img/Viterbi.jpg" width="400px"/>
 
 
-## Fourier 40
-https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard
-
-<img src="img/Fourier40.jpg" width="400px"/>
-
-
 ## Nyquist
 https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345990
 
@@ -239,12 +254,6 @@ https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345
 https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
 
 <img src="img/BFO-9000.jpg" width="400px"/> <img src="img/bfo9000_pcb.jpg" width="400px"/>
-
-
-## For Science
-https://github.com/peej/for-science-keyboard
-
-<img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
 
 
 ## Mitosis
@@ -297,14 +306,11 @@ https://habr.com/post/185500/
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
 
+## Arke
 
-## Gergo
+[thingiverse](https://www.thingiverse.com/thing:2879329)
 
-https://www.gboards.ca/
-https://github.com/germ/qmk_firmware
-https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on
-
-<img src="img/Gergo.jpg" width="400px"/>
+<img src="img/Arke.jpg" width="400px"/>
 
 
 ## Keyboard.io Model01
@@ -364,6 +370,11 @@ https://matias.ca/ergopro/pc/
 
 <img src="img/matias_ergo_pro.jpg" width="400px"/>
 
+## Goldtouch Go!2
+[goldtouch.com](https://www.goldtouch.com/best-ergonomic-keyboard/)
+
+<img src="img/Goldtouch-Go2.jpg" width="400px"/>
+
 ## Maltron
 https://en.wikipedia.org/wiki/Maltron
 
@@ -408,9 +419,38 @@ https://www.zsa.io/moonlander/
 
 <img src="img/Moonlander1.jpg" width="400px"/>
 
-## BUILD YOUR OWN KEYBOARD
+## Sofle
+https://josefadamcik.github.io/SofleKeyboard/
 
-- [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/)
+<img src="img/sofle_keyboard.jpg" width="400px"/>
+
+## Pinky
+https://github.com/tamanishi/Pinky4
+
+<img src="img/pinky4.jpg" width="400px"/>
+
+https://github.com/tamanishi/Pinky3
+
+<img src="img/pinky3.jpg" width="400px"/>
+
+## Colosseum
+
+https://github.com/swanmatch/colosseum60
+
+https://github.com/swanmatch/MxLEDBitPCB
+
+<img src="img/colosseum60.jpg" width="400px"/>
+<img src="img/colosseum44.jpg" width="400px"/>
+
+## Ergoinu
+
+https://github.com/hsgw/ergoinu
+
+<img src="img/ergoinu.jpg" width="400px"/>
+
+## Build your own keyboard (Do it yourself - DIY)
+
+- [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare)
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
@@ -494,21 +534,22 @@ https://www.zsa.io/moonlander/
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
 ### Switch Testers
+- [130 cherry kailh gateron outemu ice ttc ormon ysa acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_A58o6P)
+- [81 Cherry Kailh Gateron Outemu acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_A3e9cf)
+- [24 Kailh acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_ANrWUT)
+- [2x2 aluminium base (aliexpress)](https://s.click.aliexpress.com/e/_Ar7BAT)
 - [KBDfans](https://kbdfans.com/collections/switches-tester)
-- [NovelKeys](https://novelkeys.xyz/collections/switch-testers)
-- KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
-- https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
 ## Shopping
-- [1upkeyboards](https://1upkeyboards.com)
-- [CandyKeys](https://candykeys.com)
-- [FalbaTech](https://falba.tech)
+- [1upkeyboards.com](https://1upkeyboards.com)
+- [CandyKeys.com](https://candykeys.com)
+- [FalbaTech.tech](https://falba.tech)
 - [Input Club](https://input.club)
-- [KBDfans](https://kbdfans.com)
+- [KBDfans.com](https://kbdfans.com)
 - [The Keyboard Company](https://keyboardco.com)
-- [KPrepublic](https://kprepublic.com)
+- [KPrepublic.com](https://kprepublic.com), [aliexpress](https://kprepublic.aliexpress.ru/store/3034003)
 - [Little Keyboards](https://littlekeyboards.com)
 - [Mechanical Keyboards Inc](https://mechanicalkeyboards.com)
 - [Mechboards](https://mechboards.co.uk)
@@ -563,21 +604,12 @@ https://www.zsa.io/moonlander/
 - [Repetitive Strain Injury](http://web.eecs.umich.edu/~cscott/rsi.html)
 - [A programmer’s guide to healing RSI](https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi)
 
-
 ## More split keyboards
 
 You may also want to check out the [Split Keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0) spreadsheet, maintained by /u/dnlglsn.
-
-## About
-Born while doing research for first split keyboard.
 
 ### Contributing
 Contributions welcome!
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-### About this fork
-It was created to help reduce inactivity on this list, and to make it a great living document!
-
-I used https://stackoverflow.com/a/57316640/377456 to copy over all the PRs from the original repo, and merged them manually.
